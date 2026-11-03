@@ -1,3 +1,5 @@
+//Hangman game
+
 #include <iostream>
 using namespace std;
 
